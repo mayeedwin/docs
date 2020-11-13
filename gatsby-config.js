@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Doctocat Template',
-    shortName: 'Template',
-    description: 'My site description',
+    title: 'Docs Template',
+    shortName: 'Docs Template',
+    description: 'Docs Template for your open source project',
   },
   plugins: ['@primer/gatsby-theme-doctocat'],
 }
